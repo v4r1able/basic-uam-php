@@ -1,5 +1,4 @@
-# basic-uam-php
-<h2>PHP Basic Under Attack Mode / Php Basit Saldırı Koruma Modu</h2>
+# PHP Basic Under Attack Mode / Php Basit Saldırı Koruma Modu
 
 <h2>Yapacağın düzenleme</h2>
 
