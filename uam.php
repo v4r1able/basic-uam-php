@@ -33,7 +33,7 @@ $date_s = date("d.m.Y H:i:s");
 if($uam[$ip][$_GET["nn-uam-id"]]["5-seconds"]!=$date_s) {
 $addoneseconds = date($uam[$ip][$_GET["nn-uam-id"]]["5-seconds"], strtotime('+1 seconds'));
 } elseif($addoneseconds!=$date_s) {
-    echo 'ney';
+    echo '';
     ban($ip); exit;
 }
 
